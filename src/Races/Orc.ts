@@ -1,7 +1,7 @@
 import Race from './Race';
 
 class Orc extends Race {
-  private pointsLife = 74;
+  private _pointsLife = 74;
   static counter = 0;
 
   constructor(_name: string, _dexterity: number) {
@@ -14,7 +14,7 @@ class Orc extends Race {
   }
 
   get maxLifePoints(): number {
-    return this.pointsLife;
+    return this._pointsLife;
   }
 }
 
