@@ -1,4 +1,4 @@
-# Projeto: RPG - Role Playing Game 🎮⚔️
+#RPG - Role Playing Game 🎮⚔️
 
 Bem-vindo ao projeto do RPG - Role Playing Game! Este projeto utiliza os princípios da arquitetura SOLID e da Programação Orientada a Objetos para criar uma estrutura de jogo de RPG, tudo isso executado em um ambiente Docker.
 
